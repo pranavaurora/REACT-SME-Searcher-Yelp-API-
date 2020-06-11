@@ -1,3 +1,7 @@
+This is a SME searcher application built using REACTjs. Uses Yelp API to currate a list of startups. Aim of the application is to enable people to search for SMEs in need around their community during this period of economic downturn. 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
